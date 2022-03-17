@@ -1,0 +1,1 @@
+No se pudo hacer commit ya que, para github una carpeta vacía no representa cambios sobre el repositorio
