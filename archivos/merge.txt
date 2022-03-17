@@ -1,0 +1,1 @@
+Se pudo hacer commit por que, la carpeta ya no está vacia y respresenta un cambio sobre el repositorio remoto
