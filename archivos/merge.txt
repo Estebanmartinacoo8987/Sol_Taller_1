@@ -1,3 +1,5 @@
 David pepino lele lala
 18
 Aprender los conceptos de programacion orientada a objetos 
+Se pudo hacer commit por que, la carpeta ya no está vacia y respresenta un cambio sobre el repositorio remoto
+Porque genera conflictos 
